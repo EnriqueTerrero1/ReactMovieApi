@@ -87,3 +87,4 @@ C:\Users\Enrique Terrero\Documents\React Movie Project\MoviesApi\MoviesApi\bin\D
 C:\Users\Enrique Terrero\Documents\React Movie Project\MoviesApi\MoviesApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\Enrique Terrero\Documents\React Movie Project\MoviesApi\MoviesApi\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\Enrique Terrero\Documents\React Movie Project\MoviesApi\MoviesApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Enrique Terrero\Documents\React Movie Project\MoviesApi\MoviesApi\obj\Debug\net6.0\MoviesApi.sourcelink.json
